@@ -1,3 +1,1 @@
-# Example Mod
-
-A Farmer's Delight add-on!
+someone in the penumbra discord gave me this idea
